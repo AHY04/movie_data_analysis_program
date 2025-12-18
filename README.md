@@ -4,4 +4,4 @@ TMDB API로 영화 데이터를 수집·정제한 뒤 MySQL에 적재하고, SQL
 - Language: Python 3
 - Database: MySQL
 - Library: requests, pandas, pymysql, matplotlib
-- Tool: GitHub, draw.io (ERD)
+- Tool: GitHub, draw.io(ERD)
