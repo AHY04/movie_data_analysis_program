@@ -15,7 +15,7 @@ Python을 활용해 TMDB API에서 영화 데이터를 수집하여 CSV파일을
 - 수집 항목: 영화 기본 정보, 장르, 감독
 
 *유의사항
-- 'append_to_response-"credits"'로 감독 정보까지 수집
+- 'append_to_response="credits"'로 감독 정보까지 수집
 - API 호출 제한(RATE LIMIT) 주의
 - TMDP API사이트에서 파라미터 이름, 구조 등과 같은 서버규약 확인
 
