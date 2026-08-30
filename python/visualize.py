@@ -7,8 +7,8 @@ plt.rcParams['axes.unicode_minus'] =False
 
 conn = mysql.connector.connect(
     host="localhost",
-    user="root",
-    password="gusdyd0727+",
+    user="YOUR_USER_NAME",
+    password="YOUR_PASSWORD",
     database="tmdb"
 )
 
