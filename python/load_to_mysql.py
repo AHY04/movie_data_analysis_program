@@ -4,8 +4,8 @@ from mysql.connector import Error
 
 DB_CONFIG = {
     "host": "localhost",
-    "user": "???",
-    "password": "???",
+    "user": "YOUR_USER_NAME",
+    "password": "YOUR_PASSWORD",
     "database": "tmdb"
 }
 
